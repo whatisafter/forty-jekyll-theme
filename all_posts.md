@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All posts
+title: artwork
 landing-title: 'artwork'
 nav-menu: true
 description: null
