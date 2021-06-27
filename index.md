@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Yellow, what iis after?'
+landing-title: 'Yellow, what is after?'
 description: null
 image: null
 author: null
